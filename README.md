@@ -6,6 +6,6 @@ You can get information from web and you could also publish information on the w
 
 Here is a sample that you can push your RESUME on the internet, so that people can learn you more.
 
-http://resume.qfsare.com
+http://resume.qfshare.com
 
 Thanks
